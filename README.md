@@ -38,7 +38,7 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-2. Select the AI models for Player X and Player O from the sidebar
+2. Select the AI models for Player X and Player O from the sidebar. All models available in your Ollama instance will be listed.
 3. Click "Start Game" to watch the AI agents battle!
 
 ## How it Works
